@@ -7,7 +7,9 @@ champions_file.close()
 
 
 def getStats(champion):
-    URL = "https://leagueoflegends.fandom.com/wiki/{}/LoL".format(champion)
+    URL = "https://leagueoflegends.fandom.com/wiki/{}/LoL".format(champion.replace("\n",""))
+    # Debug
+    print("Going to url {}".format(URL))
     page = requests.get(URL)
 
     soup = BeautifulSoup(page.content, "html.parser")
