@@ -1,5 +1,5 @@
 Passive:
-Edit
+Innate: Whenever Ahri hits an enemy with one of her abilities, she gains a stack of Essence Theft, and can gain up to 3 stacks per ability cast.
 Q ability :
 40 / 65 / 90 / 115 / 140 (+ 35% AP)
 80 / 130 / 180 / 230 / 280 (+ 70% AP)

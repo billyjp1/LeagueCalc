@@ -1,5 +1,5 @@
 Passive:
-Edit
+Innate: Aatrox periodically empowers his next basic attack to gain  50 bonus range and deal 5% − 12% (based on level) of the  target's maximum health as bonus physical damage, capped at 100 against  monsters. Aatrox  heals for 100% of the post-mitigation damage dealt, reduced to 25% against  minions.
 Q ability :
 10 / 30 / 50 / 70 / 90 (+ 60 / 65 / 70 / 75 / 80% AD)
 15 / 45 / 75 / 105 / 135 (+ 90 / 97.5 / 105 / 112.5 / 120% AD)

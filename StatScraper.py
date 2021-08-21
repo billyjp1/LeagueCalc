@@ -28,7 +28,7 @@ def getStats(champion):
     file = open(fileName, "w", encoding="utf-8")
 
     # Passive is written sepretley, different format from normal abilites
-    file.write("Passive:\n{}\n".format(passive_ability.find("span").text))
+    file.write("Passive:\n{}\n".format(passive_ability.find("p").text))
 
     ability_char = ["Q", "W", "E", "R"]
     for i in range(4):
