@@ -1,25 +1,32 @@
 import requests
 from bs4 import BeautifulSoup
 
-
-URL = "https://leagueoflegends.fandom.com/wiki/Garen/LoL"
-page = requests.get(URL)
-
-soup = BeautifulSoup(page.content, "html.parser")
+champions_file = open("AllChamps.txt", "r")
+champions = champions_file.readlines()
+champions_file.close()
 
 
-results = soup.find(id="mw-content-text")
+def getStats(champion):
+    URL = "https://leagueoflegends.fandom.com/wiki/{}/LoL".format(champion)
+    page = requests.get(URL)
 
-abilities = results.find_all("div", class_="skill_leveling")
+    soup = BeautifulSoup(page.content, "html.parser")
 
-file = open("ScrapedData\GarenTest.txt", "w", encoding="utf-8")
+    results = soup.find(id="mw-content-text")
 
-for ability in abilities:
-    damage_scaling = ability.find("dd")
-    file.write(damage_scaling.text.replace("<small>", ".").replace("</small>", ""))
-    file.write("\n")
+    abilities = results.find_all("div", class_="skill_leveling")
 
-file.close()
-    
+    fileName = "ScrapedData\{}Test.txt".format(champion.replace("\n",""))
+    file = open(fileName, "w", encoding="utf-8")
+
+    for ability in abilities:
+        damage_scaling = ability.find("dd")
+        file.write(damage_scaling.text.replace("<small>", ".").replace("</small>", ""))
+        file.write("\n")
+
+    file.close()
+
+for champ in champions:
+    getStats(champ.replace(" ", "_"))
 
 

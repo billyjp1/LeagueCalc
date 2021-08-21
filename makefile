@@ -1,0 +1,2 @@
+cleardata:
+	rm ScrapedData/*.txt
