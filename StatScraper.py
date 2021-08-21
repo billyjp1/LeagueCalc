@@ -10,10 +10,16 @@ soup = BeautifulSoup(page.content, "html.parser")
 
 results = soup.find(id="mw-content-text")
 
-ability_dmg = results.find_all("div", class_="skill_leveling")
+abilities = results.find_all("div", class_="skill_leveling")
 
-for ability in ability_dmg:
+file = open("ScrapedData\GarenTest.txt", "w", encoding="utf-8")
+
+for ability in abilities:
     damage_scaling = ability.find("dd")
-    print(damage_scaling)
+    file.write(damage_scaling.text.replace("<small>", ".").replace("</small>", ""))
+    file.write("\n")
+
+file.close()
+    
 
 
