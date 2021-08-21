@@ -1,4 +1,14 @@
+Passive:
+Edit
+Q ability :
 1 / 2 / 3 / 4 / 5
+
+W ability :
 10 / 11 / 12 / 13 / 14% of Taric's armor
 8 / 9 / 10 / 11 / 12% of target's maximum health
+
+E ability :
 90 / 130 / 170 / 210 / 250 (+ 50% AP) (+ 50% bonus armor)
+
+R ability :
+

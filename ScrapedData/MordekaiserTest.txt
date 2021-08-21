@@ -1,4 +1,15 @@
+Passive:
+Edit
+Q ability :
 5 − 139 (based on level) (+ 75 / 95 / 115 / 135 / 155) (+ 60% AP)
+40 / 45 / 50 / 55 / 60%
+
+W ability :
 40 / 42.5 / 45 / 47.5 / 50%
+
+E ability :
 5 / 7.5 / 10 / 12.5 / 15%
 80 / 95 / 110 / 125 / 140 (+ 60% AP)
+
+R ability :
+

@@ -1,4 +1,18 @@
+Passive:
+Edit
+Q ability :
 20 / 40 / 60 / 80 / 100 (+ 100% AD)
+
+W ability :
 10 / 20 / 30 / 40 / 50 (+ 11 / 12 / 13 / 14 / 15% of target's maximum health)
+5 / 10 / 15 / 20 / 25 (+ 5.5 / 6 / 6.5 / 7 / 7.5% of target's maximum health)
+5 / 10 / 15 / 20 / 25 (+ 5.5 / 6 / 6.5 / 7 / 7.5% of target's maximum health)
+
+E ability :
 25 / 27.5 / 30 / 32.5 / 35% of damage dealt
+
+R ability :
 200 / 400 / 600 (+ 80% AD)
+100 / 200 / 300 (+ 40% AD)
+100 / 200 / 300 (+ 40% AD)
+

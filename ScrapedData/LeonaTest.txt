@@ -1,5 +1,17 @@
+Passive:
+Edit
+Q ability :
 10 / 35 / 60 / 85 / 110 (+ 30% AP)
+
+W ability :
 8 / 12 / 16 / 20 / 24
+20 / 25 / 30 / 35 / 40 (+ 20% bonus armor)
+20 / 25 / 30 / 35 / 40 (+ 20% bonus magic resistance)
 45 / 80 / 115 / 150 / 185 (+ 40% AP)
+
+E ability :
 50 / 90 / 130 / 170 / 210 (+ 40% AP)
+
+R ability :
 100 / 175 / 250 (+ 80% AP)
+

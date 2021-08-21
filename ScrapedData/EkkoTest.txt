@@ -1,6 +1,18 @@
+Passive:
+Edit
+Q ability :
 60 / 75 / 90 / 105 / 120 (+ 30% AP)
 32 / 39 / 46 / 53 / 60%
 40 / 65 / 90 / 115 / 140 (+ 60% AP)
+100 / 140 / 180 / 220 / 260 (+ 90% AP)
+
+W ability :
 80 / 100 / 120 / 140 / 160 (+ 150% AP)
+
+E ability :
 50 / 75 / 100 / 125 / 150 (+ 40% AP)
+
+R ability :
 150 / 300 / 450 (+ 150% AP)
+100 / 150 / 200 (+ 60% AP) (increased by 3% per 1% of health lost in the past 4 seconds)
+

@@ -1,5 +1,19 @@
+Passive:
+Edit
+Q ability :
 20 / 40 / 60 / 80 / 100 (+ 15 / 25 / 35 / 45 / 55% AD)
 20 / 25 / 30 / 35 / 40
+10 / 12.5 / 15 / 17.5 / 20
+
+W ability :
 30 / 50 / 70 / 90 / 110%
+20 / 28 / 36 / 44 / 52%
+
+E ability :
 32 / 39 / 46 / 53 / 60%
+
+R ability :
 20 / 27.5 / 35% (+ 2% per 100 AP) of the target's maximum health
+10 / 13.75 / 17.5% (+ 1% per 100 AP) of the target's maximum health
+2.5 / 3.4375 / 4.375% (+ 0.25% per 100 AP) of the target's maximum health
+

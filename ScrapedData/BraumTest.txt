@@ -1,6 +1,20 @@
+Passive:
+Edit
+Q ability :
 75 / 125 / 175 / 225 / 275 (+ 2.5% of Braum's maximum health)
+
+W ability :
 10 / 14 / 18 / 22 / 26 (+ 36% bonus armor)
+10 / 14 / 18 / 22 / 26 (+ 36% bonus magic resistance)
+10 / 14 / 18 / 22 / 26 (+ 12% bonus armor)
+10 / 14 / 18 / 22 / 26 (+ 12% bonus magic resistance)
+
+E ability :
 30 / 32.5 / 35 / 37.5 / 40%
+3 / 3.25 / 3.5 / 3.75 / 4
+
+R ability :
 150 / 300 / 450 (+ 60% AP)
 1 / 1.5 / 2
 40 / 50 / 60%
+

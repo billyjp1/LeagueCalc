@@ -1,6 +1,18 @@
+Passive:
+Edit
+Q ability :
 60 / 100 / 140 / 180 / 220 (+ 60% bonus AD) (+ 50% AP)
+26 / 32 / 38 / 44 / 50%
+
+W ability :
 60 / 90 / 120 / 150 / 180 (+ 30% AP)
+24 / 28 / 32 / 36 / 40% (+ 8% per 100 AP)
+
+E ability :
 15 / 20 / 25 / 30 / 35 (+ 10% bonus AD) (+ 20% AP)
 8 / 9 / 10 / 11 / 12% (+ 2% per 100 AP) of target's missing health
+
+R ability :
 2 / 2.5 / 3
 200 / 350 / 500 (+ 100% bonus AD) (+ 80% AP)
+

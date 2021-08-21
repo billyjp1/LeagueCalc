@@ -1,8 +1,28 @@
+Passive:
+Edit
+Q ability :
 20 / 22.5 / 25 / 27.5 / 30% of target's current health
 80 / 135 / 190 / 245 / 300
+300 / 350 / 400 / 450 / 500
+
+W ability :
 5 / 8.75 / 12.5 / 16.25 / 20
+80 / 140 / 200 / 260 / 320
+25 / 30 / 35 / 40 / 45% of damage taken
 20 / 35 / 50 / 65 / 80 (+ 7% bonus health)
+
+E ability :
 15 / 20 / 25 / 30 / 35
+25 / 30 / 35 / 40 / 45
+40 / 50 / 60 / 70 / 80
 5 / 15 / 25 / 35 / 45 (+ 7% bonus health)
+8 / 24 / 40 / 56 / 72 (+ 11.2% bonus health)
 10 / 30 / 50 / 70 / 90 (+ 14% bonus health)
+16 / 48 / 80 / 112 / 144 (+ 22.4% bonus health)
+
+R ability :
 20 / 45 / 70% maximum health
+2 / 4.5 / 7% maximum health
+4 / 5.5 / 7% bonus health
+15 / 25 / 35%
+

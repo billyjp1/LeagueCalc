@@ -1,4 +1,15 @@
+Passive:
+Edit
+Q ability :
 10 / 15 / 20 / 25 / 30%
+
+W ability :
 3 / 3.5 / 4 / 4.5 / 5% (+ 2% per 100 AD) of target's maximum health
+20 / 30 / 40 / 50 / 60
+
+E ability :
 25 / 30 / 35 / 40 / 45% (+ 8% per 100 AD)
+
+R ability :
 150 / 250 / 350 (+ 50% bonus AD)
+

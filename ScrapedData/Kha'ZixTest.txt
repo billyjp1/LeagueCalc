@@ -1,4 +1,15 @@
+Passive:
+Edit
+Q ability :
 60 / 85 / 110 / 135 / 160 (+ 130% bonus AD)
+126 / 178.5 / 231 / 283.5 / 336 (+ 273% bonus AD)
+
+W ability :
 85 / 115 / 145 / 175 / 205 (+ 100% bonus AD)
 60 / 85 / 110 / 135 / 160 (+ 50% AP)
+
+E ability :
 65 / 100 / 135 / 170 / 205 (+ 20% bonus AD)
+
+R ability :
+
