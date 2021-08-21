@@ -1,0 +1,7 @@
+1 / 1.5 / 2 / 2.5 / 3% of target's maximum health (+ 20% AD)
+1 / 1.5 / 2 / 2.5 / 3% of target's maximum health (+ 20% AD) (+ 30% AP)
+10 / 11 / 12 / 13 / 14% maximum health (+ 80% AP)
+8 / 10 / 12 / 14 / 16%
+40 / 65 / 90 / 115 / 140 (+ 20% AP)
+30 / 50 / 70 / 90 / 110
+20 / 60 / 100  (+ 50% AP)

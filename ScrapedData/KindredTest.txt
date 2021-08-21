@@ -1,0 +1,5 @@
+60 / 85 / 110 / 135 / 160 (+ 75% bonus AD)
+4 / 3.5 / 3 / 2.5 / 2
+25 / 30 / 35 / 40 / 45 (+ 20% bonus AD) (+ 1.5% (+ 1% per  Mark) of target's current health)
+80 / 100 / 120 / 140 / 160 (+ 80% bonus AD) (+ 8% (+ 0.5% per  Mark) of target's missing health)
+250 / 325 / 400

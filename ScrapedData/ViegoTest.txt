@@ -1,0 +1,5 @@
+2 / 3 / 4 / 5 / 6% of target's current health
+15 / 30 / 45 / 60 / 75 (+ 60% AD) × (1 + (75% +  0%) critical strike chance)
+80 / 135 / 190 / 245 / 300 (+ 100% AP)
+30 / 35 / 40 / 45 / 50%
+15 / 20 / 25% (+ 3% per 100 bonus AD) of target's missing health

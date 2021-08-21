@@ -1,0 +1,5 @@
+20 / 45 / 70 / 95 / 120 (+ 110% AD)
+12 / 13 / 14 / 15 / 16% of target's maximum health
+80 / 130 / 180 / 230 / 280
+80 / 125 / 170 / 215 / 260 (+ 40% bonus armor) (+ 40% bonus magic resistance)
+125 / 175 / 225 (+ 20% AP)
